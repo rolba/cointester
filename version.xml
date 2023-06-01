@@ -3,13 +3,10 @@
   <channel>
     <item>
         <title>Version 1.0.1</title>
+        <description>Release version</description>
         <pubDate>Thu, 1 Jun 2023 10:00:00 +0000</pubDate>
-        <enclosure url="https://www.cointester.com" sparkle:version="1.0.1" sparkle:os="android" />
-    </item>
-    <item>
-        <title>Version 1.0.1</title>
-        <pubDate>Thu, 1 Jun 2023 10:00:00 +0000</pubDate>
-        <enclosure url="https://www.cointester.com" sparkle:version="1.0.1" sparkle:os="iOS" />
+        <enclosure url="https://www.cointester.com" sparkle:version="1.0.1" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
 </rss>
