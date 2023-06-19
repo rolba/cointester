@@ -3,9 +3,9 @@
   <channel>
     <item>
         <title>Version 1.0.0</title>
-        <description>Release version</description>
-        <pubDate>Thu, 1 Jun 2023 10:00:00 +0000</pubDate>
-        <enclosure url="https://www.cointester.com" sparkle:version="1.0.0" sparkle:os="android"/>
+        <description>Fixing email confirmation.</description>
+        <pubDate>Mon, 18 Jun 2023 10:00:00 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.0.1" sparkle:os="android"/>
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
