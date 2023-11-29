@@ -3,7 +3,7 @@
   <channel>
     <item>
         <title>Version 1.0.9</title>
-        <descriptionxml:lang="en">Fixing stability issues.</description>
+        <description xml:lang="en">Fixing stability issues.</description>
         <pubDate>Fri, 24 Nov 2023 10:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.0.9" sparkle:os="android"/>
         <sparkle:minimumSystemVersion>1.0.8</sparkle:minimumSystemVersion> 
