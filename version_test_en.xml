@@ -3,20 +3,16 @@
   <channel>
     <item>
         <title>Version 1.0.9</title>
-        <description>
-
-Added Gold Kangaroo
-Added information about the thickness of the coin</description>
+        <description>Added Gold Kangaroo
+          Added information about the thickness of the coin</description>
         <pubDate>Fri, 24 Nov 2023 10:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.0.10" sparkle:os="android"/>
         <sparkle:minimumSystemVersion>1.0.8</sparkle:minimumSystemVersion> 
     </item>
     <item>
       <title>Version 1.0.9</title>
-      <description>
-
-Added Gold Kangaroo
-Added information about the thickness of the coin</description>
+      <description>Added Gold Kangaroo
+        Added information about the thickness of the coin</description>
       <pubDate>Fri, 24 Nov 2023 10:00:00 +0000</pubDate>
       <enclosure url="https://apps.apple.com/us/app/coin-tester/id6448944215" sparkle:version="1.0.10" sparkle:os="iOS"/>
       <sparkle:minimumSystemVersion>1.0.8</sparkle:minimumSystemVersion>  
