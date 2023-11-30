@@ -3,14 +3,14 @@
   <channel>
     <item>
       <title>Version 1.0.9</title>
-      <description>Dodano złotego kangura</description>
+      <description>Dodano Złotego Kangura</description>
       <pubDate>Fri, 1 Dec 2023 10:00:00 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.0.9" sparkle:os="android"/>
       <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
       <title>Version 1.0.9</title>
-      <description>Dodano złotego kangura</description>
+      <description>Dodano Złotego Kangura</description>
       <pubDate>Fri, 1 Dec 2023 10:00:00 +0000</pubDate>
       <enclosure url="https://apps.apple.com/us/app/coin-tester/id6448944215" sparkle:version="1.0.9" sparkle:os="iOS"/>
       <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
