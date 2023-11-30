@@ -3,7 +3,7 @@
   <channel>
     <item>
         <title>Version 1.0.9</title>
-        <description>
+        <description>\n
 Added Gold Kangaroo
 Added information about the thickness of the coin</description>
         <pubDate>Fri, 24 Nov 2023 10:00:00 +0000</pubDate>
@@ -12,7 +12,7 @@ Added information about the thickness of the coin</description>
     </item>
     <item>
       <title>Version 1.0.9</title>
-      <description>
+      <description>\n
 Added Gold Kangaroo
 Added information about the thickness of the coin</description>
       <pubDate>Fri, 24 Nov 2023 10:00:00 +0000</pubDate>
