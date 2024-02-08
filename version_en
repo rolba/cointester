@@ -3,18 +3,18 @@
   <channel>
     <item>
       <title>Version 1.1.0</title>
-      <description>Quick Test feature added,
+      <description>New feature added - Quick Test,
 bugs fixes.</description>
       <pubDate>Thu, 8 Feb 2024 10:00:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.0.11" sparkle:os="android"/>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.1.0" sparkle:os="android"/>
       <sparkle:minimumSystemVersion>1.1.0</sparkle:minimumSystemVersion> 
     </item>
     <item>
       <title>Version 1.1.0</title>
-      <description>Quick Test feature added,
+      <description>New feature added - Quick Test,
 bugs fixes.</description>
       <pubDate>Thu, 8 Feb 2024 10:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/us/app/coin-tester/id6448944215" sparkle:version="1.0.11" sparkle:os="iOS"/>
+      <enclosure url="https://apps.apple.com/us/app/coin-tester/id6448944215" sparkle:version="1.1.0" sparkle:os="iOS"/>
       <sparkle:minimumSystemVersion>1.1.0</sparkle:minimumSystemVersion> 
     </item>
   </channel>
