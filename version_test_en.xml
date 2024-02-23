@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
-        <title>Version 1.0.11</title>
-        <description>Added Gold Kangaroo
-Added information about the thickness of the coin</description>
-        <pubDate>Fri, 24 Nov 2023 10:00:00 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.0.11" sparkle:os="android"/>
-        <sparkle:minimumSystemVersion>1.0.8</sparkle:minimumSystemVersion> 
+      <title>Version 1.1.1</title>
+      <description>Added information about the AI model update date
+Improvements have been made to the registration process.</description>
+      <pubDate>Fri, 23 Feb 2024 11:00:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.1.1" sparkle:os="android"/>
+      <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
-      <title>Version 1.0.11</title>
-      <description>Added Gold Kangaroo
-Added information about the thickness of the coin</description>
-      <pubDate>Fri, 24 Nov 2023 10:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/us/app/coin-tester/id6448944215" sparkle:version="1.0.11" sparkle:os="iOS"/>
-      <sparkle:minimumSystemVersion>1.0.8</sparkle:minimumSystemVersion>  
+      <title>Version 1.1.0</title>
+      <description>New feature added - Quick Test,
+bugs fixes.</description>
+      <pubDate>Thu, 8 Feb 2024 10:00:00 +0000</pubDate>
+      <enclosure url="https://apps.apple.com/us/app/coin-tester/id6448944215" sparkle:version="1.1.0" sparkle:os="iOS"/>
+      <sparkle:minimumSystemVersion>1.1.0</sparkle:minimumSystemVersion> 
     </item>
   </channel>
 </rss>
