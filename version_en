@@ -5,7 +5,7 @@
       <title>Version 1.1.1</title>
       <description>Added information about the AI model update date
 Improvements have been made to the registration process.</description>
-      <pubDate>Fri, 23 Feb 2024 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 11:00:00 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.cointester.app" sparkle:version="1.1.1" sparkle:os="android"/>
       <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
