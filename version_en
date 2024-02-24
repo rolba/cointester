@@ -10,12 +10,12 @@ Improvements have been made to the registration process.</description>
       <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
-      <title>Version 1.1.0</title>
-      <description>New feature added - Quick Test,
-bugs fixes.</description>
-      <pubDate>Thu, 8 Feb 2024 10:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/us/app/coin-tester/id6448944215" sparkle:version="1.1.0" sparkle:os="iOS"/>
-      <sparkle:minimumSystemVersion>1.1.0</sparkle:minimumSystemVersion> 
+      <title>Version 1.1.1</title>
+      <description>Added information about the AI model update date
+Improvements have been made to the registration process.</description>
+      <pubDate>Sat, 24 Feb 2024 05:00:00 +0000</pubDate>
+      <enclosure url="https://apps.apple.com/us/app/coin-tester/id6448944215" sparkle:version="1.1.1" sparkle:os="iOS"/>
+      <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
 </rss>
